@@ -1,0 +1,133 @@
+
+{
+    "20250201.nc": [
+        {"lon": 62.30, "lat": -17.10, "name": "FAIDA"},
+        {"lon": 104.10, "lat": -15.00, "name": "VINCE"},
+        {"lon": 119.60, "lat": -13.60, "name": "TALIAH"}
+    ],
+    "20250202.nc": [
+        {"lon": 58.80, "lat": -18.50, "name": "FAIDA"},
+        {"lon": 100.20, "lat": -15.60, "name": "VINCE"},
+        {"lon": 116.90, "lat": -14.40, "name": "TALIAH"}
+    ],
+    "20250203.nc": [
+        {"lon": 51.20, "lat": -18.30, "name": "FAIDA"},
+        {"lon": 96.20, "lat": -16.00, "name": "VINCE"},
+        {"lon": 115.00, "lat": -15.20, "name": "TALIAH"},
+        {"lon": 167.80, "lat": -20.70, "name": "UNNAMED"}
+    ],
+    "20250204.nc": [
+        {"lon": 49.90, "lat": -18.40, "name": "FAIDA"},
+        {"lon": 90.90, "lat": -17.30, "name": "VINCE"},
+        {"lon": 112.20, "lat": -15.40, "name": "TALIAH"},
+        {"lon": 169.30, "lat": -21.40, "name": "UNNAMED"}
+    ],
+    "20250205.nc": [
+        {"lon": 48.70, "lat": -20.40, "name": "FAIDA"},
+        {"lon": 86.90, "lat": -18.70, "name": "VINCE"},
+        {"lon": 108.30, "lat": -15.70, "name": "TALIAH"},
+        {"lon": 174.10, "lat": -21.30, "name": "UNNAMED"}
+    ],
+    "20250206.nc": [
+        {"lon": 83.30, "lat": -19.10, "name": "VINCE"},
+        {"lon": 105.10, "lat": -14.90, "name": "TALIAH"}
+    ],
+    "20250207.nc": [
+        {"lon": 79.60, "lat": -19.80, "name": "VINCE"},
+        {"lon": 100.70, "lat": -14.60, "name": "TALIAH"}
+    ],
+    "20250208.nc": [
+        {"lon": 74.70, "lat": -20.40, "name": "VINCE"},
+        {"lon": 125.40, "lat": -14.10, "name": "ZELIA"},
+        {"lon": 96.30, "lat": -15.70, "name": "TALIAH"}
+    ],
+    "20250209.nc": [
+        {"lon": 70.80, "lat": -20.60, "name": "VINCE"},
+        {"lon": 123.50, "lat": -14.50, "name": "ZELIA"},
+        {"lon": 94.40, "lat": -15.40, "name": "TALIAH"}
+    ],
+    "20250210.nc": [
+        {"lon": 68.90, "lat": -22.40, "name": "VINCE"},
+        {"lon": 121.80, "lat": -14.50, "name": "ZELIA"},
+        {"lon": 93.20, "lat": -14.70, "name": "TALIAH"}
+    ],
+    "20250211.nc": [
+        {"lon": 69.10, "lat": -26.20, "name": "VINCE"},
+        {"lon": 120.10, "lat": -16.30, "name": "ZELIA"},
+        {"lon": 92.30, "lat": -14.60, "name": "TALIAH"}
+    ],
+    "20250212.nc": [
+        {"lon": 70.30, "lat": -30.00, "name": "VINCE"},
+        {"lon": 118.80, "lat": -18.90, "name": "ZELIA"},
+        {"lon": 166.60, "lat": -23.60, "name": "UNNAMED_2"},
+        {"lon": 91.10, "lat": -16.50, "name": "TALIAH"}
+    ],
+    "20250213.nc": [
+        {"lon": 118.20, "lat": -19.10, "name": "ZELIA"},
+        {"lon": 170.00, "lat": -22.60, "name": "UNNAMED_2"},
+        {"lon": 88.50, "lat": -21.30, "name": "TALIAH"}
+    ],
+    "20250214.nc": [
+        {"lon": 118.70, "lat": -19.50, "name": "ZELIA"},
+        {"lon": 85.10, "lat": -23.30, "name": "TALIAH"}
+    ],
+    "20250215.nc": [
+        {"lon": 83.60, "lat": -24.80, "name": "TALIAH"}
+    ],
+    "20250216.nc": [
+        {"lon": 82.30, "lat": -26.10, "name": "TALIAH"}
+    ],
+    "20250217.nc": [
+        {"lon": 78.20, "lat": -29.10, "name": "TALIAH"}
+    ],
+    "20250218.nc": [
+        {"lon": 76.80, "lat": -30.50, "name": "TALIAH"}
+    ],
+    "20250219.nc": [
+        {"lon": 125.30, "lat": -12.10, "name": "BIANCA"},
+        {"lon": 75.80, "lat": -31.10, "name": "TALIAH"}
+    ],
+    "20250220.nc": [
+        {"lon": 121.30, "lat": -13.10, "name": "BIANCA"}
+    ],
+    "20250221.nc": [
+        {"lon": 117.30, "lat": -14.70, "name": "BIANCA"},
+        {"lon": 148.40, "lat": -13.70, "name": "ALFRED"}
+    ],
+    "20250222.nc": [
+        {"lon": 112.50, "lat": -15.00, "name": "BIANCA"},
+        {"lon": 149.70, "lat": -15.20, "name": "ALFRED"}
+    ],
+    "20250223.nc": [
+        {"lon": 108.30, "lat": -16.00, "name": "BIANCA"},
+        {"lon": 151.80, "lat": -14.00, "name": "ALFRED"},
+        {"lon": -178.50, "lat": -14.60, "name": "RAE"}
+    ],
+    "20250224.nc": [
+        {"lon": 104.60, "lat": -18.30, "name": "BIANCA"},
+        {"lon": 154.00, "lat": -13.90, "name": "ALFRED"},
+        {"lon": -179.40, "lat": -17.90, "name": "RAE"}
+    ],
+    "20250225.nc": [
+        {"lon": 102.50, "lat": -21.10, "name": "BIANCA"},
+        {"lon": 154.50, "lat": -14.40, "name": "ALFRED"},
+        {"lon": -177.90, "lat": -22.80, "name": "RAE"},
+        {"lon": 170.90, "lat": -16.80, "name": "SERU"}
+    ],
+    "20250226.nc": [
+        {"lon": 102.40, "lat": -24.70, "name": "BIANCA"},
+        {"lon": 52.90, "lat": -17.80, "name": "GARANCE"},
+        {"lon": 38.60, "lat": -22.90, "name": "HONDE"},
+        {"lon": 155.10, "lat": -14.90, "name": "ALFRED"},
+        {"lon": 170.30, "lat": -19.60, "name": "SERU"},
+        {"lon": -174.50, "lat": -26.20, "name": "RAE_2"}
+    ],
+    "20250227.nc": [
+        {"lon": 103.90, "lat": -26.50, "name": "BIANCA"},
+        {"lon": 55.00, "lat": -17.90, "name": "GARANCE"},
+        {"lon": 40.40, "lat": -24.20, "name": "HONDE"},
+        {"lon": 155.40, "lat": -16.70, "name": "ALFRED"},
+        {"lon": 171.00, "lat": -21.90, "name": "SERU"},
+        {"lon": -163.80, "lat": -30.60, "name": "RAE_2"}
+    ]
+}

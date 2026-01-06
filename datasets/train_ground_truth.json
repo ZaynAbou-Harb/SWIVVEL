@@ -1,0 +1,75 @@
+{
+    "20240922.nc": [
+        {"lon": -98.6, "lat": 13.8, "name": "JOHN"},
+        {"lon": 119.9, "lat": 24.9, "name": "UNNAMED"}
+    ],
+    "20240923.nc": [
+        {"lon": -81.7, "lat": 17.2, "name": "HELENE"},
+        {"lon": -98.6, "lat": 14.0, "name": "JOHN"},
+        {"lon": 129.3, "lat": 29.1, "name": "CIMARON"}
+    ],
+    "20240924.nc": [
+        {"lon": -82.2, "lat": 18.2, "name": "HELENE"},
+        {"lon": -58.4, "lat": 38.7, "name": "ISAAC"},
+        {"lon": -98.6, "lat": 15.9, "name": "JOHN"},
+        {"lon": 113.6, "lat": 27.9, "name": "CIMARON"},
+        {"lon": 149.8, "lat": 14.3, "name": "JEBI"}
+    ],
+    "20240925.nc": [
+        {"lon": -85.2, "lat": 19.7, "name": "HELENE"},
+        {"lon": -58.8, "lat": 38.1, "name": "ISAAC"},
+        {"lon": -101.0, "lat": 17.1, "name": "JOHN"},
+        {"lon": 134.7, "lat": 28.3, "name": "CIMARON"},
+        {"lon": 149.5, "lat": 14.7, "name": "JEBI"}
+    ],
+    "20240926.nc": [
+        {"lon": -86.7, "lat": 22.8, "name": "HELENE"},
+        {"lon": -54.5, "lat": 37.0, "name": "ISAAC"},
+        {"lon": -102.0, "lat": 16.9, "name": "JOHN"},
+        {"lon": 132.4, "lat": 28.2, "name": "CIMARON"},
+        {"lon": 147.2, "lat": 15.9, "name": "JEBI"},
+        {"lon": 128.2, "lat": 24.1, "name": "KRATHON"}
+    ],
+    "20240927.nc": [
+        {"lon": -84.3, "lat": 28.7, "name": "HELENE"},
+        {"lon": -50.1, "lat": 37.2, "name": "ISAAC"},
+        {"lon": -41.5, "lat": 17.1, "name": "JOYCE"},
+        {"lon": -102.9, "lat": 17.5, "name": "JOHN"},
+        {"lon": 132.1, "lat": 28.5, "name": "CIMARON"},
+        {"lon": 145.7, "lat": 17.7, "name": "JEBI"},
+        {"lon": 126.7, "lat": 20.9, "name": "KRATHON"}
+    ],
+    "20240928.nc": [
+        {"lon": -86.6, "lat": 38.1, "name": "HELENE"},
+        {"lon": -44.4, "lat": 38.0, "name": "ISAAC"},
+        {"lon": -44.3, "lat": 18.8, "name": "JOYCE"},
+        {"lon": 136.0, "lat": 32.1, "name": "CIMARON"},
+        {"lon": 143.3, "lat": 20.0, "name": "JEBI"},
+        {"lon": 125.5, "lat": 18.8, "name": "KRATHON"}
+    ],
+    "20240929.nc": [
+        {"lon": -38.0, "lat": 21.5, "name": "ISAAC"},
+        {"lon": -47.1, "lat": 20.6, "name": "JOYCE"},
+        {"lon": -32.1, "lat": 13.8, "name": "KIRK"},
+        {"lon": 141.6, "lat": 32.7, "name": "CIMARON"},
+        {"lon": 141.6, "lat": 22.7, "name": "JEBI"},
+        {"lon": 124.4, "lat": 18.7, "name": "KRATHON"}
+    ],
+    "20240930.nc": [
+        {"lon": -33.8, "lat": 44.1, "name": "ISAAC"},
+        {"lon": -49.5, "lat": 22.5, "name": "JOYCE"},
+        {"lon": -32.8, "lat": 13.8, "name": "KIRK"},
+        {"lon": -95.6, "lat": 13.6, "name": "UNNAMED"},
+        {"lon": 139.7, "lat": 32.6, "name": "CIMARON"},
+        {"lon": 140.4, "lat": 26.0, "name": "JEBI"},
+        {"lon": 122.0, "lat": 20.1, "name": "KRATHON"}
+    ],
+    "20241001.nc": [
+        {"lon": -26.3, "lat": 46.1, "name": "ISAAC"},
+        {"lon": -36.3, "lat": 14.2, "name": "KIRK"},
+        {"lon": -24.4, "lat": 10.2, "name": "LESLIE"},
+        {"lon": -95.5, "lat": 13.8, "name": "UNNAMED"},
+        {"lon": 141.6, "lat": 32.7, "name": "JEBI"},
+        {"lon": 119.6, "lat": 20.6, "name": "KRATHON"}
+    ]
+}
